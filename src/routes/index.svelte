@@ -11,6 +11,7 @@
 	exposure="0.93"
 >
 	<button
+		slot="ar-button"
 		class="absolute top-8 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-indigo-500 hover:bg-indigo-600 shadow-lg transition py-2 px-3 rounded-full text-white font-bold"
 	>
 		<div class="flex gap-2">
